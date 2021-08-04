@@ -1,4 +1,4 @@
-# diolive
+# Projeto controle de ponto e acesso.
 
 Api rest para gerenciamento de ponto e controle de acesso.
 
